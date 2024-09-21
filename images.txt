@@ -1,3 +1,5 @@
 kubernetesui/dashboard:v2.3.1
 registry.aliyuncs.com/google_containers/kube-proxy:v1.18.0
 nginx
+calico/cni:v3.25.0
+calico/pod2daemon-flexvol:v3.25.0
